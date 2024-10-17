@@ -1,2 +1,2 @@
-# Big_Data
-here I have uploaded all my Big Data tutorials, projects and some practise codes.  
+# Machine learning and Data mining
+##here the goal is to upload data science stuff that I learn.   
